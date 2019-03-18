@@ -26,4 +26,4 @@ KHC PPT
 
 [진선이와 아이들.pdf](https://github.com/baekh93/SemiProject/files/2922068/default.pdf)
 
-![khccc](https://user-images.githubusercontent.com/45020744/54532004-0ce3fc00-49ca-11e9-91d7-7c1206279b80.PNG)
+![khccc](https://user-images.githubusercontent.com/45020744/54532143-6b10df00-49ca-11e9-9ba5-0748d0f94436.PNG)
