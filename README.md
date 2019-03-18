@@ -1,5 +1,4 @@
 # SemiProject
-![khccc](https://user-images.githubusercontent.com/45020744/54532004-0ce3fc00-49ca-11e9-91d7-7c1206279b80.PNG)
 
 KH 정보교육원 세미프로젝트(KHC : KH정보교육원 학생들을 위한 커뮤니티 사이트)
 
@@ -26,3 +25,5 @@ KHC PPT
 통합본
 
 [진선이와 아이들.pdf](https://github.com/baekh93/SemiProject/files/2922068/default.pdf)
+
+![khccc](https://user-images.githubusercontent.com/45020744/54532004-0ce3fc00-49ca-11e9-91d7-7c1206279b80.PNG)
